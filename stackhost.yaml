@@ -9,7 +9,7 @@ commands:
   build:
     - "pip install -r requirements.txt"
   package:
-    - "nano ffmpeg python3-requests python3-sqlalchemy python3-aiohttp openssl pv jq python3"
+    - "nano ffmpeg requests"
   start:
     - "python3 bot.py"
 
