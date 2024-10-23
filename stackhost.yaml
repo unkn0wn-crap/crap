@@ -9,7 +9,7 @@ commands:
   build:
     - "pip install -r requirements.txt"
   package:
-    - "ffmpeg nano wget xz-utils neofetch"
+    - "ffmpeg nano xz-utils neofetch"
   start:
     - "python3 bot.py"
 
