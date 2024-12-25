@@ -10,7 +10,7 @@ commands:
     - "pip install -r requirements.txt"
     - "catbox"
   package:
-    - "nano ffmpeg"
+    - "nano ffmpeg build-essential"
   start:
     - "python3 bot.py"
 
