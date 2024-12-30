@@ -3,7 +3,7 @@ user:
   github: unknown
 
 language: "python"
-python_version: "3.11.8"
+python_version: "3.10.8"
 
 commands:
   build:
